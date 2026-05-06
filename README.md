@@ -76,7 +76,7 @@ dist\AutoClicker.exe
 ## 项目结构
 
 ```text
-auto_clicker_project/
+20260506-auto_clicker_project/
   main.py
   build.ps1
   requirements.txt
